@@ -1,0 +1,7 @@
+F:\ShaderForgeSource\ShaderForge\ShaderForge\ShaderForge\bin\Debug\ShaderForge.dll
+F:\ShaderForgeSource\ShaderForge\ShaderForge\ShaderForge\bin\Debug\ShaderForge.pdb
+F:\ShaderForgeSource\ShaderForge\ShaderForge\ShaderForge\bin\Debug\UnityEditor.dll
+F:\ShaderForgeSource\ShaderForge\ShaderForge\ShaderForge\bin\Debug\UnityEngine.dll
+F:\ShaderForgeSource\ShaderForge\ShaderForge\ShaderForge\obj\Debug\ShaderForge.dll
+F:\ShaderForgeSource\ShaderForge\ShaderForge\ShaderForge\obj\Debug\ShaderForge.pdb
+F:\ShaderForgeSource\ShaderForge\ShaderForge\ShaderForge\obj\Debug\ShaderForge.csprojResolveAssemblyReference.cache
